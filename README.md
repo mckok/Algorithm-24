@@ -1,3 +1,3 @@
 # Algorithm-24
 
-## contents
+## contents my name is 최민국
